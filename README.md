@@ -61,4 +61,6 @@ Input (100x100x3)
  ┃
  ┗━ Flatten -> Dense(4096, activation='sigmoid')
        ┗━ Output: 4096-D embedding
-</details> ```
+```
+</details>
+
